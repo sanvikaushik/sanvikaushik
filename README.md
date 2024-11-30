@@ -20,7 +20,7 @@
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,java,python,swift,tensorflow,docker,flask,git,gitlab,javascript,ruby,mysql,kotlin,typescript)](https://skillicons.dev)
 
 # Libraries + Frameworks
-[![My Skills](https://skillicons.dev/icons?i=react,node.js,jquery,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,jquery,bootstrap)](https://skillicons.dev)
 
 
 
