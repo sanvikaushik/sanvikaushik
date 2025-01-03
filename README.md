@@ -1,4 +1,4 @@
-# Hi, I'm Sanvi! Pleasure to meet you!
+# Hi, I'm Sanvi 👋
 
 - 🌱 I’m a second-year Software Engineering student  
 - 💞️ I’m looking to collaborate on Backend, Full Stack, Data Science, and/or AI!
