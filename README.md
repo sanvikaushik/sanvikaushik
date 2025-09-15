@@ -4,17 +4,17 @@
 
 ```js
 const secondYearStudent = {
-  name: "Your Favorite 2nd Year Software Engineering Student",
+  name: "Your Favorite 3rd Year Software Engineering Student",
   pronouns: "she/her",
   specialPowers: [
     "can debug code in my sleep",
-    "turn coffee into C (and occasional Python)"
+    "turn coffee into Python"
   ],
   collaborationWishlist: [
     "Backend",
-    "Full Stack",
+    "Data Engineering",
     "Data Science",
-    "AI"
+    "AI/ML"
   ]
 };
 ```
