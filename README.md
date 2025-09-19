@@ -13,7 +13,6 @@ const secondYearStudent = {
   collaborationWishlist: [
     "Backend",
     "Data Engineering",
-    "Data Science",
     "AI/ML"
   ]
 };
