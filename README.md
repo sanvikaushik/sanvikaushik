@@ -3,7 +3,7 @@
 [LinkedIn](https://www.linkedin.com/in/sanvi-705v1/) | [Email](sanvi.kaushik22@gmail.com)
 
 ```js
-const secondYearStudent = {
+const thirdYearStudent = {
   name: "Your Favorite 3rd Year Software Engineering Student",
   pronouns: "she/her",
   specialPowers: [
