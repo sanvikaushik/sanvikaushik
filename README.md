@@ -1,25 +1,13 @@
-# Hi, I'm Sanvi 👋
+# Sanvi Kaushik
 
-[LinkedIn](https://www.linkedin.com/in/sanvi-705v1/) | [Email](sanvi.kaushik22@gmail.com)
+Software Engineering @ Carleton University. I build backend systems, data infrastructure, and applied AI.
 
-```js
-const thirdYearStudent = {
-  name: "Your Favorite 3rd Year Software Engineering Student",
-  pronouns: "she/her",
-  specialPowers: [
-    "can debug code in my sleep",
-    "turn coffee into Python"
-  ],
-  collaborationWishlist: [
-    "Backend",
-    "Data Engineering",
-    "AI/ML"
-  ]
-};
-```
-![216649417-9acc58df-9186-4132-ad43-819a57babb67](https://github.com/user-attachments/assets/6f39d3fe-8746-489f-8c9c-0ab122b54647)
+- **Praxis** — portable motor-rehabilitation system using computer vision and IMU signals to quantify tremor, stability, and tracing performance. **1st Overall @ Hack the 6ix.**
+- **Trace** — safety-aware routing system that dynamically reroutes around risk, generating detours in **<200 ms** while improving route safety by **32%**.
+- **Learning Cache** — [add one-line technical description here].
+- **AI Crash Analysis Agent @ Ericsson** — RAG-based debugging system for 5G Baseband failures, improving diagnostic accuracy from **33% to 91%** and supporting **1,000+ engineers worldwide**.
+- **Synthetic Sensors @ BlackBerry IVY** — built C++ and TensorFlow Lite vehicle sensors for real-time occupancy and object detection.
 
-<!---
-sanvikaushik/sanvikaushik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Interested in **backend infrastructure, distributed systems, AI/ML systems, and developer tooling**.
+
+Ottawa / Toronto · [LinkedIn](https://www.linkedin.com/in/sanvi-705v1/) · [Email](mailto:sanvi.kaushik22@gmail.com)
