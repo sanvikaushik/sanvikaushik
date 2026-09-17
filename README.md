@@ -7,4 +7,4 @@ Software Engineering @ Carleton University.
 - **AI Crash Analysis Agent @ Ericsson** — RAG-based debugging system for 5G Baseband failures, improving diagnostic accuracy from **33% to 91%** and supporting **1,000+ engineers worldwide**.
 - **Synthetic Sensors @ BlackBerry IVY** — C++ and TensorFlow Lite sensors for real-time vehicle occupancy and object detection.
 
-[LinkedIn](https://www.linkedin.com/in/sanvi-705v1/) · [Email](mailto:sanvi.kaushik22@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/sanvi-705v1/) · [Devpost](https://devpost.com/sanvi-kaushik22) · [Email](mailto:sanvi.kaushik22@gmail.com)
